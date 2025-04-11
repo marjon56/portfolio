@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'React Front-end Developer',
+    title: 'Front-end Developer',
     company: "RealSys IT Solutions",
     duration: "(Mar 2017 - Nov 2023)"
   },
